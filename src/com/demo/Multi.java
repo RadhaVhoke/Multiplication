@@ -29,6 +29,12 @@ public class Multi {
       b=100;
       System.out.println("Multiplication :"+(a*b));
 		
+ 
+   // added from github by sujit ....this is conflict example
+      a=50;
+      b=60;
+      System.out.println("Multiplication :"+(a*b));
+      
 		
 		
 	}
